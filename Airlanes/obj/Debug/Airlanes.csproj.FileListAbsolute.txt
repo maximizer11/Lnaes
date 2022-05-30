@@ -1,0 +1,47 @@
+D:\WSR\Airlanes\Airlanes\bin\Debug\Airlanes.exe.config
+D:\WSR\Airlanes\Airlanes\bin\Debug\Airlanes.exe
+D:\WSR\Airlanes\Airlanes\bin\Debug\Airlanes.pdb
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.AssemblyReference.cache
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.SuggestedBindingRedirects.cache
+D:\WSR\Airlanes\Airlanes\obj\Debug\MainWindow.g.cs
+D:\WSR\Airlanes\Airlanes\obj\Debug\App.g.cs
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes_MarkupCompile.cache
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes_MarkupCompile.lref
+D:\WSR\Airlanes\Airlanes\obj\Debug\MainWindow.baml
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.g.resources
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.Properties.Resources.resources
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.GenerateResource.cache
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.CoreCompileInputs.cache
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.exe
+D:\WSR\Airlanes\Airlanes\obj\Debug\Airlanes.pdb
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\Airlanes.exe.config
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\Airlanes.exe
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\Airlanes.pdb
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\MainWindow.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\App.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes_MarkupCompile.cache
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes_MarkupCompile.lref
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\MainWindow.baml
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.g.resources
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.Properties.Resources.resources
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.GenerateResource.cache
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.exe
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.pdb
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Administrator.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Administrator.baml
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Users.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Users.baml
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\EntityFramework.dll
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\EntityFramework.xml
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio Projects\Airlanes\Airlanes\bin\Debug\ru\EntityFramework.resources.dll
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes_Content.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\Airlanes.csproj.CopyComplete
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\AddUser.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\AddUser.baml
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\EditUser.g.cs
+D:\VisualStudio Projects\Airlanes\Airlanes\obj\Debug\EditUser.baml
